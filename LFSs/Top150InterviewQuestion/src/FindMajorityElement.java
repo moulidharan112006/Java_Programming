@@ -1,7 +1,7 @@
 import java.util.HashMap;
 import java.util.Map;
 
-public class MajorityElement {
+public class FindMajorityElement {
     static int findMajority(int[] arr){
         HashMap<Integer,Integer> map = new HashMap<>();
         for(int i : arr){
