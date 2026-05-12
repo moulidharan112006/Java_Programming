@@ -1,3 +1,5 @@
+package Arrray;
+
 public class ArrayTraversal {
     public static void arrayTraversal(int[] arr) {
         for(int i=0;i<arr.length;i++){

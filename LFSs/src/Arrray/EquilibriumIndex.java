@@ -1,3 +1,5 @@
+package Arrray;
+
 public class EquilibriumIndex {
     static int findIndex(int[] arr){
         int totalSum = 0;

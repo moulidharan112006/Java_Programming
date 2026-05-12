@@ -1,3 +1,5 @@
+package Arrray;
+
 public class TrappingRainWater {
     // brute force
     static int trappingRain(int[] height){

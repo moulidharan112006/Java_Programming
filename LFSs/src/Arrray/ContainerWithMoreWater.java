@@ -1,3 +1,5 @@
+package Arrray;
+
 public class ContainerWithMoreWater {
     static int moreWater(int[] arr){
         int maxWater =0,left =0,right = arr.length-1;

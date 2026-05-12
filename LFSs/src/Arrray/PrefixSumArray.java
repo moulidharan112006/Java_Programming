@@ -1,3 +1,5 @@
+package Arrray;
+
 public class PrefixSumArray {
     static void prefixSum(int[] arr){
         for(int i=1;i< arr.length;i++){

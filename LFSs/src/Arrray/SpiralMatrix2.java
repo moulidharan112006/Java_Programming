@@ -1,4 +1,4 @@
-import java.util.List;
+package Arrray;
 
 public class SpiralMatrix2 {
     public static int[][] generateMatrix(int n) {

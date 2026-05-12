@@ -1,3 +1,5 @@
+package Arrray;
+
 public class MaximumProductSubarray {
     static int maxProduct(int[] arr) {
         int  max=arr[0], min = arr[0], ans= arr[0];

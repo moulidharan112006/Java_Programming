@@ -1,3 +1,5 @@
+package Arrray;
+
 public class RemoveDuplicate {
     public static int removeElement(int[] nums, int val) {
         int j=0;

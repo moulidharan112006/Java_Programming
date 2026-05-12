@@ -1,3 +1,5 @@
+package Arrray;
+
 public class MergeTwoSortedArray {
 
     //better

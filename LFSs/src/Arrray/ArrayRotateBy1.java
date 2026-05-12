@@ -1,3 +1,5 @@
+package Arrray;
+
 public class ArrayRotateBy1 {
     //Optimal
     static void rotate(int[] arr,int l,int r){

@@ -1,3 +1,5 @@
+package Arrray;
+
 public class ProductOfArrayExpectItself {
     public static int[] productExceptSelf(int[] nums) {
         int n = nums.length;

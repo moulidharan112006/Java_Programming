@@ -1,3 +1,5 @@
+package Arrray;
+
 public class SumInRange {
     static int findSum(int[] arr,int l,int r){
         int sum=0;

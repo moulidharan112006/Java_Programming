@@ -1,3 +1,5 @@
+package Arrray;
+
 public class SetMatrixZeroes {
     static void setMatrixValue(int[][] arr,int r,int c){
         for(int i=0;i<arr.length;i++){

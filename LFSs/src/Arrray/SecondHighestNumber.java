@@ -1,4 +1,5 @@
-import java.lang.reflect.Array;
+package Arrray;
+
 import java.util.Arrays;
 
 public class SecondHighestNumber {

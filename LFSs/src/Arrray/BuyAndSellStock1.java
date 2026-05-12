@@ -1,3 +1,5 @@
+package Arrray;
+
 public class BuyAndSellStock1 {
     static int maxProfit(int[] arr){
         int max =0,min = arr[0];

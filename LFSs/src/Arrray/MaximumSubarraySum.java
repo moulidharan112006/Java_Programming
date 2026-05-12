@@ -1,3 +1,5 @@
+package Arrray;
+
 public class MaximumSubarraySum {
     // Brute Force
     static int maxiSum(int[] arr){

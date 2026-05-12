@@ -1,3 +1,5 @@
+package Arrray;
+
 public class PalinedromeArray {
     static boolean palindrome(int[] arr){
         int left =0,right = arr.length-1;

@@ -1,3 +1,5 @@
+package Arrray;
+
 import java.util.Arrays;
 
 public class NextPermutation {

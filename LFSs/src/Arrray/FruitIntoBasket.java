@@ -1,3 +1,5 @@
+package Arrray;
+
 public class FruitIntoBasket {
     static int countFruit(int[] arr){
         int maxLen = 0,lastFruit = -1,secondLast = -1,currCount = 0,lastStreak =0;
