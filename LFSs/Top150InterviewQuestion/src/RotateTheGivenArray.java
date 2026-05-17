@@ -1,4 +1,4 @@
-public class RotateArray {
+public class RotateTheGivenArray {
     static void reverse(int[] arr,int left,int right){
         while (left < right){
             int temp = arr[left];
