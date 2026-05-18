@@ -1,4 +1,4 @@
-package StriverSheet.Max;
+package StriverSheet.Maths;
 
 public class LCM_GCD {
     static int gcd(int n,int m){
