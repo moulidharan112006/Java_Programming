@@ -43,6 +43,7 @@ public class ThreeSum {
 
     //Optimal
     static List<List<Integer>> threeSumOptimal(int[] arr){
+        Arrays.sort(arr);
         List<List<Integer>> res = new ArrayList<>();
         for(int i=0;i<arr.length;i++){
             if(i > 0 && arr[i] == arr[i-1]) continue;
