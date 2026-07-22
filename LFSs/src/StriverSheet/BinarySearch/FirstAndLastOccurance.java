@@ -31,7 +31,7 @@ public class FirstAndLastOccurance {
         return res;
     }
     public static void main(String[] args) {
-        int[] arr = {1,2,3,8,8,9};
+        int[] arr = {1,8,8,8,8,9};
         int target = 8;
         System.out.println(Arrays.toString(firstAndLast(arr,target)));
         System.out.println(lastOptimal(arr,target));
